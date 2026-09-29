@@ -1,0 +1,10 @@
+{
+  "name": "Projeto05-DWIII",
+  "version": "1.0.0",
+  "description": "Aplicação web em Node.js puro que calcula a média de P1 e P2 e informa a situação do aluno",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
