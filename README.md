@@ -42,7 +42,7 @@ Este projeto consiste num servidor web desenvolvido em **Node.js puro (sem frame
   ├── app.js               # Servidor HTTP e lógica de negócio/rotas
   ├── package.json         # Configurações do projeto e scripts de execução
   └── package-lock.json    # Registo detalhado de dependências
-
+```
 ## 🔧 Como Executar o Projeto
 
 ### Pré-requisitos
@@ -51,9 +51,8 @@ Ter o Node.js instalado na sua máquina.
 ### Passo a Passo
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/yasminandrade8/NOME_DO_SEU_REPOSITORIO.git
+   git clone https://github.com/yasminandrade8/Projeto05-DWIII.git
    ```
-   *(Nota: substitua o link acima pelo link real do seu repositório deste projeto)*
    
 2. **Entre na pasta do projeto:**
    ```bash
